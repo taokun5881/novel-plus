@@ -67,6 +67,7 @@ novel-plus -- 父工程
 [![点击查看大图](https://www.xxyopen.com/images/green_novel.png)](https://www.xxyopen.com/images/green_novel.png)
 [![点击查看大图](https://www.xxyopen.com/images/resource/os/novel-plus/green3.png)](https://www.xxyopen.com/images/resource/os/novel-plus/green3.png)
 [![点击查看大图](https://www.xxyopen.com/images/resource/os/novel-plus/green2.png)](https://www.xxyopen.com/images/resource/os/novel-plus/green2.png)
+[![点击查看大图](https://www.xxyopen.com/images/resource/os/novel-plus/crawler.png)](https://www.xxyopen.com/images/resource/os/novel-plus/crawler.png)
 
 ## 演示视频
 

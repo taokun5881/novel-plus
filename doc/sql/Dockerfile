@@ -1,2 +1,2 @@
-FROM mysql:8.0
-COPY novel_plus.sql /docker-entrypoint-initdb.d/init.sql
+FROM mysql:8.0.46
+COPY novel_plus_data.sql /docker-entrypoint-initdb.d/init.sql
